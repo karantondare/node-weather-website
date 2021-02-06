@@ -53,3 +53,15 @@ button {
   color: white;
   padding: 8px;
 }
+
+.creator {
+  text-decoration: none;
+  font-weight: bold;
+  position: relative;
+  padding-bottom: 50px;
+}
+
+.creator:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
